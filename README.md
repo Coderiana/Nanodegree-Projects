@@ -1,4 +1,4 @@
-# Nanodegree-Projects
+# Project - Practical Statistics
 
 # Overview
 This is an A/B testing assignment for Udacity's Data Analyst Nanodegree Program. The project consisted of investigating results of a/b testing of user conversion for a new and old website.
